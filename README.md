@@ -1,9 +1,11 @@
 <div align="center">
 
   <!-- Header Typing Effect -->
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=20C997&center=true&vcenter=true&width=500&lines=Hi+there!+I'm+Eduardo+Ramires+👋;Software+Developer+%40+Jetimob;Information+Systems+Student;QA+%26+DevOps+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=20C997&center=true&vcenter=true&width=500&lines=Hi+there!+I%27m+Eduardo+Ramires;Software+Developer+%40+Jetimob;Information+Systems+Student;QA+%26+DevOps+Enthusiast" alt="Typing SVG" />
   </a>
+</div>
 
   <p align="center">
     <b>Building reliable software with a passion for continuous integration, test automation, and robust backends.</b>
