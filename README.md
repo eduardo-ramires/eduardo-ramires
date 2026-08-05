@@ -68,14 +68,14 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardo-ramires&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-ramires&layout=compact&theme=tokyonight" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardo-ramires&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -88,5 +88,5 @@
 ---
 
 <div align="center">
-  <sub>Designed with ❤️ by Eduardo Ramires</sub>
+  <sub>Designed by Eduardo Ramires</sub>
 </div>
