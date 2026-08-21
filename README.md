@@ -19,9 +19,6 @@
     <a href="mailto:duduramires2005@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://instagram.com/duduramires_">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
   </p>
 
   <p align="center">
@@ -33,7 +30,7 @@
 ---
 ### 👨‍💻 About Me
 
-- 💼 **QA Automation Engineer Intern (SDET)** at **Jetimob**.
+- 🧪 Building **E2E and API test automation** with **Playwright + TypeScript**, integrated into CI/CD pipelines at **Jetimob**.
 - 🎓 Pursuing a B.S. in **Information Systems** at **Universidade Franciscana (UFN)**.
 - 📜 Technical Degree in IT from **SENAC**.
 - 🛠️ Currently deepening knowledge in **CI/CD, Docker, and Automated Testing**.
@@ -47,26 +44,22 @@
 
 ### 🛠️ Tech Stack & Tools
 
-#### 🧪 Testing & Quality Assurance
+#### 🧪 Testing & Quality Assurance (E2E & API)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-#### 🚀 DevOps & CI/CD
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+#### 🚀 CI/CD & DevOps
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-#### 💻 Backend & Programming Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+#### 💻 Backend & Databases
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### 🌐 Frontend & Databases
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -87,9 +80,9 @@
 
 ---
 
-### 🧩 Beyond Coding & Hobbies
+### 🧩 Outside of Work
 
-- 🖨️ **3D Printing Prototyping:** I enjoy designing and 3D printing custom mechanical parts and technical prototypes in my free time.
+- 🖨️ In my free time, I enjoy **3D printing** and prototyping custom mechanical parts — a personal hobby, separate from my professional QA focus.
 - 💡 *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
 
 ---
