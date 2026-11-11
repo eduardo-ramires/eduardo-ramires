@@ -67,10 +67,6 @@
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=eduardo-ramires&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=eduardo-ramires&layout=compact&theme=tokyonight" />
-</div>
 
 <br />
 
